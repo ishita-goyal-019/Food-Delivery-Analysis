@@ -15,6 +15,16 @@ Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and
    - Maximum Restaurants By Each Location. 
 - Build HTML Recommandation Model.
 
+## Problem Statement
+- Extract COVID-19 data for India using Python and the `requests` module.
+- Parse and clean the data, ensuring consistency and handling missing values.
+- Perform SQL aggregations to create an Excel dashboard with the following insights:
+    - Weekly evolution of confirmed cases, recoveries, deaths, and tests.
+    - Categorize districts based on testing ratios and analyze deaths across categories.
+    - Compare delta7 confirmed cases with vaccination data.
+    - Create KPIs to assess case severity in different states.
+    - Categorize total confirmed cases by month to identify the worst month for India.
+    - 
 ## Dashboard
 ![WhatsApp Image 2023-09-30 at 11 23 01 PM](https://github.com/ishita-goyal-019/Food-Delivery-Analysis/assets/145800141/76d9809e-2163-4a90-8e34-280da73455c7%20space.png)
 
