@@ -5,7 +5,6 @@
 Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and predictive HTML recommendation models to elevate food delivery experiences. 📈🚀 #GrubhubAnalysis #FoodTechInnovation
 
 ## Problem Statement
-
 -Extract data from GRUBHUB using Python libraries like Selienium.
 -Parse and clean the data, ensuring consistency and handling missing values.
 -For dynamic dashboard used Power Bi with the following insights:
@@ -14,6 +13,7 @@ Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and
    -Most Cheapest Restaurants Based On Cuisines.
    -Create slicers to assess case severity in different locations and Restaurants.
    -Maximum Restaurants By Each Location. 
+-Build HTML Recommandation Model.
 
 ## Dashboard
 ![WhatsApp Image 2023-09-30 at 11 23 01 PM](https://github.com/ishita-goyal-019/Food-Delivery-Analysis/assets/145800141/76d9809e-2163-4a90-8e34-280da73455c7%20space.png)
