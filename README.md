@@ -13,8 +13,7 @@ Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and
    -Top 3 location Having most DRN of the Restaurants.
    -Most Cheapest Restaurants Based On Cuisines.
    -Create slicers to assess case severity in different locations and Restaurants.
-   -Maximum Restaurants By Each Location.
--Build HTML Recommandation Model. 
+   -Maximum Restaurants By Each Location. 
 
 ## Dashboard
 ![WhatsApp Image 2023-09-30 at 11 23 01 PM](https://github.com/ishita-goyal-019/Food-Delivery-Analysis/assets/145800141/76d9809e-2163-4a90-8e34-280da73455c7%20space.png)
