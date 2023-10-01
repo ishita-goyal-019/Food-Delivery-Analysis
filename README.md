@@ -116,7 +116,7 @@ https://drive.google.com/file/d/1gpV3DxtAgiPXJ565Q_O6M439vHhkCQ3M/view?usp=shari
 
 <br>
 
-## 🪪 License
+## 📋 License
 This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
 
 <br>
