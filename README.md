@@ -129,6 +129,6 @@ This project is licensed under the MIT License, allowing you to use, modify, and
 I would like to express my sincere gratitude to the following individuals:
 
 - **Mentor**: Rishabh Sengar for his invaluable guidance, continuous support, and insightful feedback throughout the project.
-- **Team Members**: DEVVRAT KAUSHIK, NUPUR KAWTRA, SANSKRUTEE DUDHE for their collaboration, contributions, and teamwork, which enriched the project significantly.
+- **Team Members**: Devvrat Kaushik, Nupur Kawtra, Sanskrutee Dudhe for their collaboration, contributions, and teamwork, which enriched the project significantly.
 
 Your encouragement and expertise were instrumental in making this project a success. Thank you for your time, knowledge, and dedication.
