@@ -4,8 +4,8 @@
 
 Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and predictive HTML recommendation models to elevate food delivery experiences. 📈🚀 #GrubhubAnalysis #FoodTechInnovation.
 
-![alt text](![opengraph_image_orange_GH](https://github.com/ishita-goyal-019/Grubhub_Recommendtion_Model/assets/145800141/bb732b28-b180-409b-bf08-f11933868950)
-)
+[](image/![opengraph_image_orange_GH](https://github.com/ishita-goyal-019/Grubhub_Recommendtion_Model/assets/145800141/ad6424b3-a52e-459f-a4d2-8c33746676cf%20spaces.png)
+
 
 ## Problem Statement
 - Extract data from GRUBHUB using Python libraries like Selienium.
