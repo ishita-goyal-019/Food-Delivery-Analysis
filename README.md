@@ -35,7 +35,7 @@ Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and
 - [🌟 Tech Stack](#techc-tack)
 - [💡 Insights Derived](insights-derived)
 - [🚀 Future Scop](#future-scope)
-- [🪪🪪 License](#license)
+- [🪪 License](#license)
 - [🙏 Acknowledgments](#acknowledgments)
 
 <br>
@@ -56,6 +56,7 @@ Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and
 
  -It includes various filters for exploring different scenarios.
 
+
 ![WhatsApp Im![image](https://github.com/ishita-goyal-019/Grubhub_Recommendtion_Model/assets/145800141/87dc0159-735d-41e8-bd6d-198930b41896)
 age 2023-09-30 at 11 23 01 PM](https://github.com/ishita-goyal-019/Food-Delivery-Analysis/assets/145800141/76d9809e-2163-4a90-8e34-280da73455c7%20space.png)
 
@@ -72,7 +73,7 @@ https://drive.google.com/file/d/1gpV3DxtAgiPXJ565Q_O6M439vHhkCQ3M/view?usp=shari
  
 <br>
 
-([https://cuisinechase.vercel.app/](https://drive.google.com/file/d/1F4d0m_1z-QPvZaT_QPsYGj1t5IcmCGrw/view?usp=sharing))
+[([https://cuisinechase.vercel.app/](https://drive.google.com/file/d/1F4d0m_1z-QPvZaT_QPsYGj1t5IcmCGrw/view?usp=sharing))](https://drive.google.com/file/d/1F4d0m_1z-QPvZaT_QPsYGj1t5IcmCGrw/view?usp=sharing)
 
 <br>
 
