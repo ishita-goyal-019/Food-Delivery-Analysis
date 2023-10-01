@@ -4,6 +4,8 @@
 
 Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and predictive HTML recommendation models to elevate food delivery experiences. 📈🚀 #GrubhubAnalysis #FoodTechInnovation.
 
+![alt text](https://drive.google.com/file/d/1CL-GUEjBuo_-kjzr3fgd-xxyFJFOuoec/view?usp=sharing)
+
 ## Problem Statement
 - Extract data from GRUBHUB using Python libraries like Selienium.
 - Parse and clean the data, ensuring consistency and handling missing values.
@@ -71,10 +73,6 @@ https://drive.google.com/file/d/1gpV3DxtAgiPXJ565Q_O6M439vHhkCQ3M/view?usp=shari
 - Utilized Flask to build the user interface.
 - Stored model predictions using Pickle.
  
-<br>
-
-[](image/https://drive.google.com/file/d/1F4d0m_1z-QPvZaT_QPsYGj1t5IcmCGrw/view?usp=sharing%20spaces.png)
-
 [([https://cuisinechase.vercel.app/](https://drive.google.com/file/d/1F4d0m_1z-QPvZaT_QPsYGj1t5IcmCGrw/view?usp=sharing))](https://drive.google.com/file/d/1F4d0m_1z-QPvZaT_QPsYGj1t5IcmCGrw/view?usp=sharing)
 
 <br>
