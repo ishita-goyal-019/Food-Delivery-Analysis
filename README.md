@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and predictive HTML recommendation models to elevate food delivery experiences. 📈🚀 #GrubhubAnalysis #FoodTechInnovation.
+Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and predictive HTML recommendation models to elevate food delivery experiences. 📈🚀 #GrubhubAnalysis #FoodTechInnovation
 
 ![opengraph_image_orange_GH](https://github.com/ishita-goyal-019/Grubhub_Recommendtion_Model/assets/145800141/ad6424b3-a52e-459f-a4d2-8c33746676cf%20spaces.png)
 
