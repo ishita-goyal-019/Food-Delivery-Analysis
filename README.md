@@ -35,7 +35,7 @@ Revolutionizing Grubhub with Data 🍔📊 | Crafting interactive dashboards and
 - [🌟 Tech Stack](#techc-tack)
 - [💡 Insights Derived](insights-derived)
 - [🚀 Future Scop](#future-scope)
-- [🪪  License](#license)
+- [📋  License](#license)
 - [🙏 Acknowledgments](#acknowledgments)
 
 <br>
