@@ -73,7 +73,9 @@ https://drive.google.com/file/d/1gpV3DxtAgiPXJ565Q_O6M439vHhkCQ3M/view?usp=shari
 - Created an interactive webpage for users to input cuisine, preferred location, and preferred price.
 - Utilized Flask to build the user interface.
 - Stored model predictions using Pickle.
- 
+
+!(![WhatsApp Image 2023-10-01 at 6 05 26 PM](https://github.com/ishita-goyal-019/Grubhub_Recommendtion_Model/assets/145800141/837ed258-d3bc-4819-92bb-99f8f36b622c%20spaces.png)
+
 [([https://cuisinechase.vercel.app/](https://drive.google.com/file/d/1F4d0m_1z-QPvZaT_QPsYGj1t5IcmCGrw/view?usp=sharing))](https://drive.google.com/file/d/1F4d0m_1z-QPvZaT_QPsYGj1t5IcmCGrw/view?usp=sharing)
 
 <br>
